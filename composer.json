@@ -1,6 +1,6 @@
 {
     "name": "aprendible/storage-link-route",
-    "description": "A route for execute storage:link",
+    "description": "A route to create a symlink from 'public/storage' to 'storage/app/public'",
     "authors": [
         {
             "name": "Jorge García",
