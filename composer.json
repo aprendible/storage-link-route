@@ -1,6 +1,7 @@
 {
     "name": "aprendible/storage-link-route",
     "description": "A route to create a symlink from 'public/storage' to 'storage/app/public'",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jorge García",
